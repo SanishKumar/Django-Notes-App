@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image: "sanishkumar1212.notes-app:latest"
+     image: "sanishkumar1212/notes-app:latest"
      ports :
          - "8000:8000"
